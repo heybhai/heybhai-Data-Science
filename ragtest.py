@@ -174,7 +174,7 @@ def generate_gemini_answer(question: str, results: list[SearchResult], model: st
     if not api_key:
         raise RuntimeError(
             "GEMINI_API_KEY is not set. In PowerShell, run: "
-            '$env:GEMINI_API_KEY="AIzaSyCz51I6_oedJlHzrOW1rc_-49SWIeor67I"'
+            '$env:GEMINI_API_KEY="your_api_key_here"\n'
         )
 
     client = genai.Client(api_key=api_key)
