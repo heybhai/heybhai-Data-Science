@@ -8,18 +8,33 @@ Phase 2: Sequences,Deep Learning Models,"RNNs, LSTMs, GRUs, Seq2Seq"
 Phase 3: Attention,Transformers,"Attention Mechanism, BERT, GPT Architecture"
 Phase 4: Advanced,LLMs & Applications,"Fine-tuning, RAG, Prompt Engineering, Deployment"
 
-[cite_start]Based on the learning plan outlined in your documentation, here are the core focus areas for each phase and day[cite: 441]:
-
-* [cite_start]**Phase 1: Foundations (Processing & Embeddings)** [cite: 442]
-    * [cite_start]**Day 1:** Fundamentals of text processing and initial tokenization[cite: 442].
-    * [cite_start]**Day 2:** Advanced word embeddings (Word2Vec, GloVe, FastText) and holistic document vectors (Doc2Vec)[cite: 445].
-    * [cite_start]**Days 3-22:** Continuous exploration of embedding techniques and linguistic foundations[cite: 442].
-
-* [cite_start]**Phase 2: Sequences (Deep Learning Models)** [cite: 442, 443]
-    * [cite_start]**Days 23-45:** Sequential architectures including RNNs, LSTMs, GRUs, and Seq2Seq models[cite: 443].
-
-* [cite_start]**Phase 3: Attention (Transformers)** [cite: 443, 444]
-    * [cite_start]**Days 46-67:** Attention mechanisms and state-of-the-art transformer architectures like BERT and GPT[cite: 444].
-
-* [cite_start]**Phase 4: Advanced (LLMs & Applications)** [cite: 444, 445]
-    * [cite_start]**Days 68-90:** Advanced LLM applications including fine-tuning, RAG, prompt engineering, and deployment[cite: 445].
+Day 1: NLP Study
+Thu, Apr 30 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Word2Vec, GloVe, and FastText.
+Day 2: NLP Study
+Fri, May 1 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Word2Vec, GloVe, and FastText.
+Day 3: NLP Study
+Sat, May 2 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Word2Vec, GloVe, and FastText.
+Day 4: NLP Study
+Sun, May 3 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Sequence models (LSTMs, GRUs) and the Vanishing Gradient problem.
+Day 5: NLP Study
+Mon, May 4 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Sequence models (LSTMs, GRUs) and the Vanishing Gradient problem.
+Day 6: NLP Study
+Tue, May 5 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Sequence models (LSTMs, GRUs) and the Vanishing Gradient problem.
+Day 7: NLP Study
+Wed, May 6 • 5:00 – 7:00am
+Advanced Embeddings & RNNs: Sequence models (LSTMs, GRUs) and the Vanishing Gradient problem.
+Day 8: NLP Study
+Thu, May 7 • 5:00 – 7:00am
+The Transformer Revolution: Deep dive into Attention is All You Need paper.
+Day 9: NLP Study
+Fri, May 8 • 5:00 – 7:00am
+The Transformer Revolution: Deep dive into Attention is All You Need paper.
+Day 10: NLP Study
+Sat, May 9 • 5:00 – 7:00am
+The Transformer Revolution: Deep dive into Attention is All You Need paper.
