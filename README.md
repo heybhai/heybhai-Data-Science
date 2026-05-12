@@ -32,7 +32,7 @@ Welcome to my personal learning log and portfolio for my 90-day intensive Natura
     * **Key Concept:** The Vanishing Gradient problem and how Gated Architectures (Forget, Input, Output, Reset, Update) solve it by using a long-term cell state.
     * **Implementation:** Built PyTorch sequence classifiers and compared ARIMA, Vanilla RNN, and LSTM for time-series forecasting (Fractal Analytics stock data).
 
-* **Day 4 & 5: Sequence-to-Sequence (Seq2Seq)**
+* **Day 4* & 5: Sequence-to-Sequence (Seq2Seq)**
     * **Topics:** Encoder-Decoder architectures, handling variable-length inputs and outputs (e.g., Machine Translation).
     * **Focus:** Understanding the bottleneck of passing a single "Context Vector" between the Encoder and Decoder.
 
